@@ -39,7 +39,30 @@ El administrador podrá crear elementos en las distintas bases de datos, ver las
 </p>  
 
 ### Perfil USER
+Por su parte, el usuario tendrá las opciones de crear sus trabajos y verlos
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95754356/149678831-41316563-569a-40c1-a442-5d3ab740e367.png" alt="user" width="300"/>
+</p> 
+
+### VER
+El apartado de 'ver' está compuesto por distintas tablas dónde se muestra toda la información de cada categoría. Desde ahí se podrá acceder a cada elemento para verlo, modificarlo o borrarlo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95754356/149679996-4fc7dd54-b9c1-4ca1-80f3-8a56d1d9af32.png" alt="ver-user" height="500"/>
+</p> 
+
+### CREAR 
+Esta sección cuenta con distintos formularios para poder crear elementos en las distintas bbdd. Los campos de los formularios pueden ser:
+- De tipo texto, contraseña, número ...
+- Listas asincronas con elementos de otras bbdd  
+
+https://user-images.githubusercontent.com/95754356/149681519-cc2078e6-54b1-4ae8-9d9f-9493a56ea336.mp4
 
 
+
+https://user-images.githubusercontent.com/95754356/149681650-e44bc5e4-7644-4bd1-bd16-09e263728b0b.mp4
+
+- De tipo fecha y hora
+
+https://user-images.githubusercontent.com/95754356/149681759-039f41f8-1de8-4cf8-8ce7-24878eb4de6a.mp4
 
 
